@@ -12,10 +12,11 @@ test_list = [1, 2, 3, 4, 4, 5, 6, 7, 7, 8, 9, 9]
 # if the number appears more than once
 # append to extras
 
-dupes = []
-for x in set(test_list):
-    if test_list.count(x) > 1:
-        dupes.append(x)
-print(dupes)
+def return_dupes(test_list):
+    dupes = []
+    for x in set(test_list):
+        if test_list.count(x) > 1:
+            dupes.append(x)
+    return print(dupes)
         
         
