@@ -1,3 +1,6 @@
+```
+Please note that this repository is incomplete.
+```
 ## Practicing Python
 
 Repository with Python code challenge solutions. 
@@ -11,6 +14,6 @@ Repository with Python code challenge solutions.
 - [Code Academy - Learn Python 2](https://www.codecademy.com/learn/learn-python)
 - [SoloLearn](https://www.sololearn.com/)
 - [RegexOne](https://regexone.com/)
-- [RegEx Crossword](https://regexcrossword.com/)
+- [Regex Crossword](https://regexcrossword.com/)
 
 Check out my `sql_queries` repository [here](https://github.com/sidneykung/sql_queries) for SQL learning resources.
