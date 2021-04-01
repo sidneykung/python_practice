@@ -16,4 +16,16 @@ Repository with Python code challenge solutions.
 - [RegexOne](https://regexone.com/)
 - [Regex Crossword](https://regexcrossword.com/)
 
+## SQL
+
 Check out my `sql_queries` repository [here](https://github.com/sidneykung/sql_queries) for SQL learning resources.
+
+## For More Information
+
+- For additional information or suggestions, contact Sidney Kung at [sidneyjkung@gmail.com](mailto:sidneyjkung@gmail.com)
+
+**Let's connect!**
+
+- [LinkedIn](https://www.linkedin.com/in/sidneykung/)
+
+- [Twitter](https://twitter.com/sidney_k98)
