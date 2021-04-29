@@ -1,6 +1,3 @@
-```
-Please note that this repository is incomplete.
-```
 ## Practicing Python
 
 Repository with Python code challenge solutions. 
