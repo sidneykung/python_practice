@@ -1,6 +1,6 @@
 ## Practicing Python
 
-Repository with Python code challenge solutions. 
+Repository with personal Python code challenge solutions. 
 
 ## Resources
 
