@@ -1,6 +1,8 @@
 ## Practicing Python
 
+```
 Repository with personal Python code challenge solutions. 
+```
 
 ## Resources
 
